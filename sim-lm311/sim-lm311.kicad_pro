@@ -424,13 +424,17 @@
         "uuid": "9afa5773-09d4-4600-854f-3bd11830c8cf"
       }
     ],
-    "used_designators": "U1-3,R6-14,#PWR7-11",
+    "used_designators": "BT1,D1-4,R1,R10,R15-22,#PWR3,#PWR12-15,Q2-3,U4-5",
     "variants": []
   },
   "sheets": [
     [
       "9afa5773-09d4-4600-854f-3bd11830c8cf",
       "Root"
+    ],
+    [
+      "ad380112-4524-48d8-9f29-a85a96844d0e",
+      "LDO part"
     ]
   ],
   "text_variables": {},
