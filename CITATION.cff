@@ -3,7 +3,14 @@ message: "If you use this project, please cite it as below."
 authors:
   - family-names: "Emeka-Onwuneme"
     given-names: "Somtochukwu Stanislus"
-    orcid: "https://orcid.org/0009-0005-2357-0780" # Replace with your 16-digit ORCID iD
+    orcid: "https://orcid.org/0009-0005-2357-0780"
+    affiliation: "Regent University College of Science and Technology"
+  - family-names: "Awolu"
+    given-names: "Paul Eshoiza"
+    affiliation: "Regent University College of Science and Technology"
+  - family-names: "Ayeh-Bampoe"
+    given-names: "Aseda"
+    affiliation: "Regent University College of Science and Technology"
 title: "Discrete Analog Battery Management System (BMS)"
 version: "1.0.0"
 date-released: 2026-09-29
