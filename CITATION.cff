@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Emeka-Onwuneme"
+    given-names: "Somtochukwu Stanislus"
+    orcid: "https://orcid.org/0009-0005-2357-0780" # Replace with your 16-digit ORCID iD
+title: "Discrete Analog Battery Management System (BMS)"
+version: "1.0.0"
+date-released: 2026-09-29
+url: "https://github.com/Stanislus29/analog-bms"
